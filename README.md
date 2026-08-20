@@ -11,3 +11,6 @@ git clone https://github.com/Seokoh1/Koh.git
 cd Koh
 ```
 
+## Author
+
+Maintained by Seokoh1.
